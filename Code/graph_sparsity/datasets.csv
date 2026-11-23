@@ -1,0 +1,3 @@
+name,nodes,edge_file
+Deezer,28281,../data/edge_info-deezer.csv
+GitHub,37700,../data/edge_info-git.csv

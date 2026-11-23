@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+networkx
+matplotlib>=3.6
+psutil>=5.9

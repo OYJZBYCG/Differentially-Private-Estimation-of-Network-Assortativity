@@ -1,0 +1,7 @@
+name,edge_file,nodes,ba_m,ba_seed
+BA_m10,,10000,10,2026
+BA_m50,,10000,50,2026
+BA_m100,,10000,100,2026
+Facebook,data/edge_info-facebook.csv,4039,,
+Deezer,data/edge_info-deezer.csv,28281,,
+GitHub,data/edge_info-git.csv,37700,,
